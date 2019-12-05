@@ -1,0 +1,10 @@
+C:\Users\gg179936\Desktop\C# Projects\Chapter 3\MadLibsGui\MadLibsGui\bin\Debug\MadLibsGui.exe.config
+C:\Users\gg179936\Desktop\C# Projects\Chapter 3\MadLibsGui\MadLibsGui\bin\Debug\MadLibsGui.exe
+C:\Users\gg179936\Desktop\C# Projects\Chapter 3\MadLibsGui\MadLibsGui\bin\Debug\MadLibsGui.pdb
+C:\Users\gg179936\Desktop\C# Projects\Chapter 3\MadLibsGui\MadLibsGui\obj\Debug\MadLibsGui.csprojAssemblyReference.cache
+C:\Users\gg179936\Desktop\C# Projects\Chapter 3\MadLibsGui\MadLibsGui\obj\Debug\MadLibsGui.Form1.resources
+C:\Users\gg179936\Desktop\C# Projects\Chapter 3\MadLibsGui\MadLibsGui\obj\Debug\MadLibsGui.Properties.Resources.resources
+C:\Users\gg179936\Desktop\C# Projects\Chapter 3\MadLibsGui\MadLibsGui\obj\Debug\MadLibsGui.csproj.GenerateResource.cache
+C:\Users\gg179936\Desktop\C# Projects\Chapter 3\MadLibsGui\MadLibsGui\obj\Debug\MadLibsGui.csproj.CoreCompileInputs.cache
+C:\Users\gg179936\Desktop\C# Projects\Chapter 3\MadLibsGui\MadLibsGui\obj\Debug\MadLibsGui.exe
+C:\Users\gg179936\Desktop\C# Projects\Chapter 3\MadLibsGui\MadLibsGui\obj\Debug\MadLibsGui.pdb
